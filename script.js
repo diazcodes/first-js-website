@@ -1,6 +1,6 @@
 // Variables with three different types
 const userName = "Daisy";      // string
-let age = 30;                  // number
+let age = 29;                  // number
 let isStudent = true;          // boolean
 
 // Review the values in the browser console (right-click > Inspect > Console)
